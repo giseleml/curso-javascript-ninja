@@ -1,38 +1,46 @@
 /*
 Crie um array com 5 items (tipos variados).
 */
-// ?
+// let array1 = ["Start", false, 3, 121, "Finish"]
 
 /*
 Crie uma função chamada `addItem`, que irá adicionar itens no array criado.
 A função deverá retornar o array atualizado.
 */
-// ?
+// function addItem (arr, item) {
+      arr.push(item)
+      return arr
+  }
 
 /*
 Adicione um novo array ao array criado no início do desafio, com ao menos 3
 itens de tipos diferentes, mostrando o resultado no console.
 */
-// ?
+// ? let array2 = [1, "Apple Pie", true]
+     addItem(array1, array2)
+     // (6) ["Start", false, 3, 121, "Finish", Array(3)]
 
 /*
 Mostre no console o segundo elemento desse último array, criado acima, com a
 frase:
 "O segundo elemento do segundo array é [ELEMENTO]."
 */
-// ?
+// ? console.log(`O segundo elemento do segundo array é ${array1[5][1]}`)
+// O segundo elemento do segundo array é Apple Pie
 
 /*
 Mostre no console quantos itens tem o primeiro array criado, com a frase:
 "O primeiro array tem [QUANTIDADE DE ITENS] itens."
 */
-// ?
+// ? console.log(`O primeiro array tem ${array1.length} items`)
+// O primeiro array tem 6 items
 
 /*
 Agora mostre no console quantos itens tem o segundo array criado, com a frase:
 "O segundo array tem [QUANTIDADE DE ITENS] itens."
 */
-// ?
+// ? console.log(`O segundo array tem ${array1[5].length} items`)
+// O segundo array tem 3 items
 
 /*
 Utilizando a estrutura de repetição `while`, mostre no console todos os números
