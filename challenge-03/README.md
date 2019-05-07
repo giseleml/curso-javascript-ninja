@@ -102,7 +102,7 @@ da propriedade `andando` para o valor booleano que representa "falso".
 
 /*
 Crie um método chamado `nomeCompleto`, que retorne a frase:
-- "Olá! Meu nome é [NOME] [SOBRENOME]!"
+- "Olá! Meu nome é [NOME] [SOBRENOME]!" 
 */
 ? nomeCompleto() {
   return `Olá! Meu nome é ${nome} ${sobrenome}!`
