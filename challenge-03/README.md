@@ -87,7 +87,7 @@ da propriedade `andando` para o valor booleano que representa "falso".
     altura: 1.50,
     peso: 20,
     andando: false,
-    caminhouQuatroMetros: 0,
+    caminhouQuantosMetros: 0,
     fazerAniversario: function(idade) {
       this.idade ++
       },
@@ -198,7 +198,7 @@ comentários inline ao lado da instrução para mostrar a resposta retornada)
 Quantos metros a pessoa andou? (Use uma instrução para responder e comentários
 inline ao lado da instrução para mostrar a resposta retornada)
 */
-?
+? 18 metros
 
 /*
 Agora vamos deixar a brincadeira um pouco mais divertida! :D
