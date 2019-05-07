@@ -9,7 +9,8 @@ Nesse exercício, você está livre para escolher os nomes para suas variáveis 
 }
 
 // Declare uma variável que receba a invocação da função criada acima, passando dois números quaisquer por argumento, e somando `5` ao resultado retornado da função.
-? var someMais = someDois(2,2) + 5;
+? 
+var someMais = someDois(2,2) + 5;
 
 // Qual o valor atualizado dessa variável?
 ? // 9
@@ -69,20 +70,7 @@ Crie uma função com as seguintes características:
 5. Se nenhum argumento for passado, retorne o valor booleano `false`.
 6. E ainda, se nenhuma das condições acima forem atendidas, retorne `null`.
 */
-? function naoComiCocadaHoje(x,y,z) {
-    if (naoComiCocadaHoje === x) {
-      return x;
-  } else if (naoComiCocadaHoje === x, y) {
-    return x + y;
-    } else if (naoComiCocadaHoje === x, y, z) {
-      return x + y / z;
-      } else if (naoComiCocadaHoje === null) {
-        return false;
-        } else {
-          return 'null';
-     }
-   };
-//quando eu tiver mais paciencia eu termino
+
 
 // Invoque a função acima utilizando todas as possibilidades (com nenhum argumento, com um, com dois e com três.) Coloque um comentário de linha ao lado da função com o resultado de cada invocação.
 ? 
