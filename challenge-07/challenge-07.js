@@ -64,5 +64,5 @@ Só vamos mudar o range:
 console.log( 'Números pares entre 100 e 120:' );
 // ?
 
-console.log( 'Números ímpares entre 111 e 125:' );
+console.log( 'Números ímpares entre 111 e 125 :' );
 // ?
