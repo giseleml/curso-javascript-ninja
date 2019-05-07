@@ -104,4 +104,4 @@ Mostre todos os itens do array acima, odenados alfabéticamente.
 */ console.log( '\nAgora em ordem alfabética:' );
 // ?
 console.log( '\nAgora em ordem alfabética:', myName.sort());
-//Agora em ordem alfabética: (6) ["e", "e", "g", "i", "l", "s"]
+//Agora em ordem alfabética: (6) ["e", "e", "g", "i", "l", "s"] 
