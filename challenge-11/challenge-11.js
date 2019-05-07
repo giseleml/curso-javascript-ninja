@@ -82,3 +82,4 @@ for (let i = 0; i <= 20; i += 2) {
     numbers.push(i)
 }	
 console.log("Pares de 0 a 20:", numbers)
+ ♥
