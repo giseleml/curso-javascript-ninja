@@ -57,7 +57,7 @@ Crie uma função chamada `convertToHex`, com as seguintes características:
     - Se a cor passada por parâmetro não estiver entre as selecionadas, mostre
     a frase:
     "Não temos o equivalente hexadecimal para [COR]."
-*/
+*/ 
 // ?
 
 /*
